@@ -1,0 +1,17 @@
+{
+    "name": "yazid-carproys/twig-quest",
+    "autoload": {
+        "psr-4": {
+            "YazidCarproys\\TwigQuest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yazid sefsaf",
+            "email": "yazidsefsaf45@yahoo.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.8"
+    }
+}
