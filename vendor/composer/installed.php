@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'yazid-carproys/twig-quest',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'a8db3251b78437725af029c96aaf0d4f8d0fa35d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -47,9 +47,9 @@
             'dev_requirement' => false,
         ),
         'yazid-carproys/twig-quest' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'a8db3251b78437725af029c96aaf0d4f8d0fa35d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

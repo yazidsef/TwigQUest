@@ -2,15 +2,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Products</title>
+    <title>{{title}}</title>
 </head>
 <body>
     <ul>
+   
     {% for product in products %}
-        <li>{{ product }}</li>
+        <lo>{{ product }}</lo>
     {% endfor %}
     </ul>
 
-    <pre>{{ dump(products) }}</pre>
+    {{ dump(products)}}
 </body>
 </html>
